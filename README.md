@@ -40,4 +40,3 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/tatianemoraesp/tatianemoraesp/output/github-contribution-grid-snake.svg">
