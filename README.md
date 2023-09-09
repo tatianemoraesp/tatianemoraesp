@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently in career transition and working on FrontEnd development;
 - 🌱 I’m currently learning Java and Angular;
-- 😄 Pronouns: She/Her
 
 <img align="middle" alt="tati-pic" height="300" style="border-radius:150px;" src="https://media.tenor.com/-D7Sjj4LXbAAAAAC/iam-looking-for-someone-to-share-in-an-adventure-gandalf.gif">
 
